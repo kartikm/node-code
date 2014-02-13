@@ -4,7 +4,7 @@ Should not be serious while/after executing these programs at all!
 
 shaggy.js
 ---------
-> node shaggy.js <yourname>
+> node shaggy.js yourname
 
 Return: It wasn't me, yourname
 
